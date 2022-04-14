@@ -17,6 +17,8 @@ public class MainActivity extends AppCompatActivity {
     PagerAdapter pagerAdapter;
     Toolbar mtoolbar;
 
+    String api="f38323716da0402fba840ebbf42aee38";  //key Api//
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
